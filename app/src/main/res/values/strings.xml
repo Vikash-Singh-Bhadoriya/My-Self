@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MySelf</string>
+    <string name="clicked_button">Clicked</string>
+    <string name="hi_button">Hii</string>
+    <string name="nice">Nice</string>
+    <string name="happy_button">Happy</string>
+    <string name="bye_button">Bye</string>
+    <string name="thanks_button">Thanks</string>
+    <string name="some_text">Some Text</string>
+    <string name="count_together_string">Let\'s Count Together: %1$d</string>
+    <string name="count_0_string">Let\'s Count Together: 0</string>
+    <string name="_1">+1</string>
+    <string name="first_name">First Name</string>
+    <string name="mandatory_field_msg">All fields are mandatory to be filled up</string>
+    <string name="my_self_description">"Hello everyone,\nMy name is %1$s %2$s\nI study in Class %3$s %4$s\nFrom %5$s\n\nThank You !!"</string>
+    <string name="update_fields_msg">Update fields to create a new My-Self Introduction</string>
+    <string name="last_name">Last Name</string>
+    <string name="std">Std</string>
+    <string name="sec">Sec</string>
+    <string name="create">create</string>
+    <string name="school_name">School Name</string>
+    <string name="enter_all_fields_to_create_your_my_self_introduction">Enter all fields to create your My-Self Introduction</string>
+</resources>
